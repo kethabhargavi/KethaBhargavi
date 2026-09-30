@@ -2,7 +2,7 @@
 
 ### Aspiring AWS DevOps Engineer
 
-**AWS · CI/CD · Docker · Jenkins · Linux · Python · Kubernetes · Terraform**
+**AWS · CI/CD · Docker · Linux · Python · Kubernetes · Terraform**
 
 ---
 
